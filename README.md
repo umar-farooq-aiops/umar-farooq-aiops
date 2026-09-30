@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Umar Farooq
 
-I'm currently working on AIOps, Cloud Computing, DevOps, and Cyber Security projects.<br><br>I'm looking to collaborate on open-source projects, automation tools, cloud projects, and beginner-friendly tech projects.<br><br>I'm looking for help with advanced DevOps, Kubernetes, Cloud Infrastructure, and AIOps practices.<br><br>I'm currently learning Python, Linux, Bash, AWS, Docker, Kubernetes, Jenkins, Terraform, Cyber Security, Machine Learning, and Cloud Computing.<br><br>Ask me about Graphic Design, Digital Skills, Linux, Python, Cloud Computing, AIOps, and Content Creation.<br><br>Fun fact: I started my journey in IT through teaching and digital skills, and now I'm exploring the world of AIOps, Cloud, and Cyber Security.
+I'm currently working on AIOps, Cloud Computing, DevOps, and Cyber Security projects.<br><br>I'm looking to collaborate on open-source projects, automation tools, cloud projects, and beginner-friendly tech projects.<br><br>I'm looking for help with advanced DevOps, Kubernetes, Cloud Infrastructure, and AIOps practices.<br><br>I'm currently learning Python, Linux, Bash, AWS, Docker, Kubernetes, Jenkins, Terraform, Cyber Security, Machine Learning and Cloud Computing.<br><br>Ask me about Graphic Design, Digital Skills, Linux, Python, Cloud Computing, AIOps, and Content Creation.<br><br> I started my journey in IT through teaching and digital skills, and now I'm exploring the world of AIOps, Cloud and Cyber Security.
 
 
 ## 🌐 Socials:
